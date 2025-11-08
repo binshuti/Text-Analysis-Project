@@ -36,6 +36,5 @@ def main():
     from text_analysis import compare_books
     compare_books(pride_counts, oliver_counts)
 
-
 if __name__ == "__main__":
     main()
